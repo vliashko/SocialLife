@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SL.XamarinRealize.QRPage"
+             Title="QR-скан">
+    <StackLayout Margin="10,10,10,10">
+        <Label Text="" x:Name="balance" TextColor="#2196f3" FontSize="30"></Label>
+        <Button Text="Scan"  
+                x:Name="btnScan"  
+                Clicked="btnScan_Clicked" HorizontalOptions="Fill" VerticalOptions="Center"/>
+        <Label Text="" x:Name="myCode" TextColor="Red" IsVisible="False"></Label>
+        
+    </StackLayout>
+</ContentPage>

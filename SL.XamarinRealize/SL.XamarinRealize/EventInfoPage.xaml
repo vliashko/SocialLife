@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SL.XamarinRealize.EventInfoPage" Title="Информация о событии">
+    <StackLayout Margin="10,10,10,10">
+        <Label Text="Название события" FontSize="Medium"/>
+        <Label Text="{Binding Naming}" FontSize="Medium"/>
+        <Label Text="Время проведения" FontSize="Medium"/>
+        <Label Text="{Binding DateAndTime}" FontSize="Medium"/>
+        <Label Text="Описание события" FontSize="Medium"/>
+        <Label Text="{Binding Description}" FontSize="Medium"/>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Назад" Clicked="Back" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

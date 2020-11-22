@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SL.XamarinRealize.ImageItemPage" 
+             Title="Информация о предмете">
+    <StackLayout Margin="10,10,10,10">
+        <Label Text="Название предмета" FontSize="Medium"/>
+        <Label Text="{Binding Naming}" FontSize="Medium"/>
+        <Label Text="Стоимость предмета" FontSize="Medium"/>
+        <Label Text="{Binding Cost}" FontSize="Medium"/>
+        <Image Source="{Binding UniqueId}" MinimumHeightRequest="200" MinimumWidthRequest="200" WidthRequest="200" HeightRequest="200" ></Image>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Назад" Clicked="Back" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

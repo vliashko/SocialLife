@@ -1,0 +1,135 @@
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+D:\SL\SocioLife\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\AddEventPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\DataBase\Events.db
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\AddEventPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+D:\SL\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\AddEventPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ImageItemPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\NewDay\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\AddEventPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ImageItemPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+D:\SL\NewDay\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.deps.json
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\bin\Debug\netstandard2.0\SL.XamarinRealize.pdb
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csprojAssemblyReference.cache
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\AddEventPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventInfoPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ImageItemPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ItemsPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.AssemblyInfo.cs
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.dll
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\ref\SL.XamarinRealize.dll
+C:\Users\User\Desktop\v4\SocioLife2 (1)\SocioLife2\SL\SL.XamarinRealize\SL.XamarinRealize\obj\Debug\netstandard2.0\SL.XamarinRealize.pdb
